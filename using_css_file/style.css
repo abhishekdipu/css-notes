@@ -1,0 +1,24 @@
+/* there are mainly 3 kind of css selection 
+1. id selector
+2. class selector (most used)
+3. element selector
+
+--> precedence order
+id > class > element 
+*/
+
+/* html tag*/
+h1 {
+  color: brown;
+}
+
+/* class */
+.green {
+  color: green;
+}
+
+/*id*/
+
+#myid {
+  color: red;
+}
